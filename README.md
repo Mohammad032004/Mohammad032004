@@ -49,9 +49,6 @@ Passionate about building modern web applications, exploring emerging technologi
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Travis CI](https://img.shields.io/badge/Travis_CI-2B2F33?style=for-the-badge&logo=travis&logoColor=white)
-![Octopus Deploy](https://img.shields.io/badge/Octopus_Deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)
-![CloudBees](https://img.shields.io/badge/CloudBees-1997B5?style=for-the-badge&logo=cloudbees&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
@@ -80,12 +77,6 @@ Passionate about building modern web applications, exploring emerging technologi
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
-### 🧪 Testing & Quality Assurance
-![Cypress](https://img.shields.io/badge/Cypress-E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### 🔧 Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
